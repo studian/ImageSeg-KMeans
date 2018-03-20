@@ -17,3 +17,8 @@ The result is an over-segmented image. With the correct parameters, it can be us
 
 ![tunnel](output/tunnel.png)
 ![tunnel](output/tunnel-segmented.png)
+
+## Environment
+pip install pillow
+pip install scikit-learn
+pip install numpy
